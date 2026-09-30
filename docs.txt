@@ -1,0 +1,11 @@
+ -> purpose of lesson
+
+ - printI() : for output text or objects
+ - Comment() : for remark the un compilation text
+     . // :  Comment one line
+     . \* *\ :  Comment multiple lines
+ - Escape Character : 
+     . \n :  break a new line
+     . \t :  enter 1 tab
+     . \" :  show result as double qoute ("")
+     . \\ :  when want to show similar to file directory fir path 
